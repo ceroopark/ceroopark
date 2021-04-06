@@ -12,7 +12,7 @@ The tool that I usaully use 👉 <img src="https://img.shields.io/badge/Python-3
 - Research Assistant of Intelligent Media Labatory(20)
 - Research Assistant of English Linguistics Labtory(21)
 #### Job Career
-- Work on Data Engineering(2021)
+- Work on Dream Bit as Data Engineer(2021)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ceroopark&show_icons=true)
 
