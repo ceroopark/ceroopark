@@ -14,6 +14,12 @@ The tool that I usaully use 👉 <img src="https://img.shields.io/badge/Python-3
 #### Job Career
 - Work on Dream Bit as Data Engineer(2021)
 
+
+### Current Project in Progress 
+- NLP Proeject:difference between Graduate Lab and actual Field(21)
+- Participating in the start-up competition as a Project Manager(21) 
+
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ceroopark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceroopark)](https://github.com/anuraghazra/github-readme-stats)
