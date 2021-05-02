@@ -19,10 +19,9 @@ The tool that I usaully use 👉 <img src="https://img.shields.io/badge/Python-3
 - NLP Proeject:difference between Graduate Lab and actual Field(21)
 
 ### Analysis of Public Data 
--Seoul_Metro_line_station_on_and_off_number_information
+- Seoul Metro Hourly usage Statistics Report
 
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ceroopark&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceroopark)](https://github.com/anuraghazra/github-readme-stats)
