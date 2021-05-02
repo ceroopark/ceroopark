@@ -15,10 +15,8 @@ The tool that I usaully use 👉 <img src="https://img.shields.io/badge/Python-3
 - Work on Dream Bit as a Data Engineer(2021)
 
 
-### Current Project in Progress 
+### Individual Project in Progress 
 - NLP Proeject:difference between Graduate Lab and actual Field(21)
-- Participating in the start-up competition as a Project Manager(21) 
-
 
 ### Analysis of Public Data 
 -Seoul_Metro_line_station_on_and_off_number_information
