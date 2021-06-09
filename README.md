@@ -13,10 +13,10 @@ The tool that I usaully use 👉 <img src="https://img.shields.io/badge/Python-3
 
 
 ### Individual Project in Progress 
-- NLP Proeject:difference between Graduate Lab and actual Field(21)
+- Solving Baekjoon Online's Problem 
 
-### Analysis of Public Data 
-- Seoul Metro Hourly usage Statistics Report
+### Analysis of Public Data with Colabatory(21) 
+- Seoul Metro Hourly usage Statistics Report  (21)
 
 
 
