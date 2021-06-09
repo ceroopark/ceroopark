@@ -10,9 +10,6 @@ The tool that I usaully use 👉 <img src="https://img.shields.io/badge/Python-3
 - Department of Software Engineering
 - Technical Assistant of Programming(20~21)
 - Research Assistant of Intelligent Media Labatory(20)
-- Research Assistant of English Linguistics Labtory(21)
-### Job Career
-- Work on Dream Bit as a Data Engineer(2021)
 
 
 ### Individual Project in Progress 
