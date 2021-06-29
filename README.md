@@ -9,6 +9,7 @@ The tool that I usaully use 👉 <img src="https://img.shields.io/badge/Python-3
 - Department of English Linguistics and Literature
 - Department of Software Engineering
 - Technical Assistant of Programming(20~21)
+  [공기지니](https://blog.naver.com/ceroopark/222414688135 "네이버 블로그")
 - Research Assistant of Intelligent Media Labatory(20)
 
 
