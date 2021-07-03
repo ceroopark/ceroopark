@@ -15,7 +15,7 @@ The tool that I usaully use 👉 <img src="https://img.shields.io/badge/Python-3
  
 
 ### Individual Project in Progress 
-- Solving Baekjoon Online's Problem 
+- Baekjoon Online's Problem 
   [Click](https://solved.ac/profile/ceroopark "BJ")
   [Click](https://github.com/ceroopark/2021_SJU_BOJAlgorithm.py "Git")
 
