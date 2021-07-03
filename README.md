@@ -19,7 +19,7 @@ The tool that I usaully use 👉 <img src="https://img.shields.io/badge/Python-3
   [Click](https://github.com/ceroopark/2021_SJU_BOJAlgorithm.py "Git")
 
 
-### Analysis of Public Data with Colabatory(21) 
+### Analysis of Public Open Data(21) 
 - Seoul Metro Hourly usage Statistics Report  (21)
   [Click](https://github.com/ceroopark/Open-Data-Project/tree/main/subway "Git")
 
