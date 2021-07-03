@@ -24,6 +24,17 @@ The tool that I usaully use 👉 <img src="https://img.shields.io/badge/Python-3
   [Click](https://github.com/ceroopark/Open-Data-Project/tree/main/subway "Git")
 
 
+### Awards 2019~
+- Sejong pitching & mentoring day (20)  "excellence award"
+  [Click](https://blog.naver.com/ceroopark/222418881766 "Naver Blog")
+- Sejong Creative Learning Community (21)  "participation award"
+
+
+
+### Others
+- interview 
+  [Click](https://www.youtube.com/watch?v=SGhIEBgn_8M "Youtube")
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ceroopark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceroopark)](https://github.com/anuraghazra/github-readme-stats)
