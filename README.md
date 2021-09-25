@@ -14,6 +14,7 @@ The tool that I usaully use 👉 <img src="https://img.shields.io/badge/Python-3
 - Research Assistant of Intelligent Media Labatory(20)
  
 ### Job Career
+-Dream Bit (21)
 http://dreambit.ai/
 
 ### Individual Project in Progress 
