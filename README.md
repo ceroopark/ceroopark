@@ -13,6 +13,8 @@ The tool that I usaully use 👉 <img src="https://img.shields.io/badge/Python-3
   [Click](https://blog.naver.com/ceroopark/222414688135 "네이버 블로그")
 - Research Assistant of Intelligent Media Labatory(20)
  
+### Job Career
+http://dreambit.ai/
 
 ### Individual Project in Progress 
 - Baekjoon Online's Problem 
@@ -23,7 +25,6 @@ The tool that I usaully use 👉 <img src="https://img.shields.io/badge/Python-3
 - JDBC Project - I contributed Graph part. [Click](https://github.com/ceroopark/graphProject-DB- "Git")
 - Alogorithm Prjoect [Click](https://github.com/ceroopark/Algorithmceroopark/2021_SJU_BOJAlgorithm.py "Git")
 
-
 ### Analysis of Public Open Data(21) 
 - Seoul Metro Hourly usage Statistics Report  (21)
   [Click](https://github.com/ceroopark/Open-Data-Project/tree/main/subway "Git")
@@ -32,7 +33,6 @@ The tool that I usaully use 👉 <img src="https://img.shields.io/badge/Python-3
 - Sejong pitching & mentoring day (20)  "excellence award"
   [Click](https://blog.naver.com/ceroopark/222418881766 "Naver Blog")
 - Sejong Creative Learning Community (21)  "participation award"
-
 
 ### Others
 - interview 
