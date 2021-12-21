@@ -15,7 +15,7 @@ The tool that I usaully use 👉 <img src="https://img.shields.io/badge/Python-3
  
 ### Job Career
 -Dream Bit (21)
-Full-Stack Developer
+Data Engineer
 http://dreambit.ai/
 
 ### Individual Project in Progress 
