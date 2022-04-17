@@ -6,7 +6,8 @@ The tool that I usaully use 👉 <img src="https://img.shields.io/badge/Python-3
 
 ## My history
 
-### Sejong University
+### Sejong University 
+- GPA 3.81 / CUM LAUDE
 - Department of English Linguistics and Literature
 - Department of Software Engineering
 - Technical Assistant of Programming(20~21)
