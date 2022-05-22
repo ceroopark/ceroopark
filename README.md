@@ -25,8 +25,8 @@ http://dreambit.ai/
   [Click](https://github.com/ceroopark/2021_SJU_BOJAlgorithm.py "Git")
 
 ### Colleuge Project
-- JDBC Project - I contributed Graph part. [Click](https://github.com/ceroopark/graphProject-DB- "Git")
-- Alogorithm Prjoect [Click](https://github.com/ceroopark/Algorithmceroopark/2021_SJU_BOJAlgorithm.py "Git")
+- JDBC Project - I contributed Graph part. 
+- Alogorithm Prjoect
 
 ### Analysis of Public Open Data(21) 
 - Seoul Metro Hourly usage Statistics Report  (21)
