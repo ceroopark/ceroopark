@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
+
 ## Kun Young Park
 
 ### Studying Data Science
