@@ -19,6 +19,10 @@ The tool that I usaully use 👉 <img src="https://img.shields.io/badge/Python-3
 Data Engineer
 http://dreambit.ai/
 
+-Republic of Korea Army(22~24)
+Infra Engineer
+
+
 ### Individual Project in Progress 
 - Baekjoon Online's Problem 
   [Click](https://solved.ac/profile/ceroopark "BJ")
