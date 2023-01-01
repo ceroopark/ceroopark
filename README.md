@@ -30,11 +30,6 @@ Infra Engineer
 - Seoul Metro Hourly usage Statistics Report  (21)
   [Click](https://github.com/ceroopark/Open-Data-Project/tree/main/subway "Git")
 
-### Awards 2019~
-- Sejong pitching & mentoring day (20)  "excellence award"
-  [Click](https://blog.naver.com/ceroopark/222418881766 "Naver Blog")
-- Sejong Creative Learning Community (21)  "participation award"
-
 ### Others
 - interview 
   [Click](https://www.youtube.com/watch?v=SGhIEBgn_8M "Youtube")
