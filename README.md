@@ -22,12 +22,6 @@ http://dreambit.ai/
 -Republic of Korea Army(22~24)
 Infra Engineer
 
-
-### Individual Project in Progress 
-- Baekjoon Online's Problem 
-  [Click](https://solved.ac/profile/ceroopark "BJ")
-  [Click](https://github.com/ceroopark/2021_SJU_BOJAlgorithm.py "Git")
-
 ### Colleuge Project
 - JDBC Project - I contributed Graph part. 
 - Alogorithm Prjoect
